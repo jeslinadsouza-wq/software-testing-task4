@@ -1,0 +1,22 @@
+# Cross Browser Testing Report
+
+Website Tested:
+https://www.saucedemo.com/
+
+Browsers Tested:
+- Chrome
+- Firefox
+- Edge
+
+Test Cases:
+1. Login Functionality
+2. UI Compatibility
+3. Responsive Testing
+
+Results:
+- Login successful in all browsers
+- UI working properly
+- No major compatibility issues found
+
+Conclusion:
+Website works properly across different browsers.
